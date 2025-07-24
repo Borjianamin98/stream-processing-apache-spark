@@ -1,4 +1,4 @@
-# Java Examples for "Stream Processing with Apache Spark" Book
+# "Stream Processing with Apache Spark" Book Examples
 
 This repository contains Java implementations of the code examples from the book
 "Stream Processing with Apache Spark" (originally written in Scala).
